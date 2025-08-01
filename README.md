@@ -1,6 +1,6 @@
 # 📝 Open Journal
 
-Welcome to my open-source, terminal-based daily journal project.  
+Welcome to my open-source, terminal-based daily journal 
 Each day, I log my thoughts, learnings, and reflections in plain-text files. The goal is to document personal growth openly, encourage consistency, and share thoughts with the world — all using the Linux terminal and GitHub.
 
 ---
@@ -85,5 +85,6 @@ Feel free to read, use, fork, or contribute.
 
 **Arnab Roy**  
 🌐 [github.com/Arnazz10](https://github.com/Arnazz10)
+
 
 
