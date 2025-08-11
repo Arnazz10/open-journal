@@ -5,7 +5,7 @@ Each day, I log my thoughts, learnings, and reflections in plain-text files. The
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure :
 
 - `YYYY-MM-DD.txt`: Journal entry for the specific date
 - `journal.sh`: Bash script to create entries via terminal
@@ -85,6 +85,7 @@ Feel free to read, use, fork, or contribute.
 
 **Arnab Roy**  
 🌐 [github.com/Arnazz10](https://github.com/Arnazz10)
+
 
 
 
